@@ -1,3 +1,4 @@
+#Has testing file in folder. See README at repo's root for testing usage if needed
 class Caesar
 
 def initialize(str)
