@@ -1,4 +1,3 @@
-#Has testing file in folder. See README at repo's root for testing usage if needed
 class Caesar
 
 def initialize(str)
@@ -15,11 +14,11 @@ end
 end
 
 Caesar.new("What a string!").caesar(5)
-Caesar.new("Looks not like C no more, hun?").caesar(22)
+Caesar.new("Looks not like no more, hun?").caesar(22)
 Caesar.new("").caesar(2)
 Caesar.new("And what will you do now").caesar(0)
 
 #>>"Bmfy f xywnsl!"
-#>>"Hkkgo jkp hega Y jk ikna, dqj?"
+#>>"Hkkgo jkp hega jk ikna, dqj?"
 #>>"Try again"
 #>>"Try again"
